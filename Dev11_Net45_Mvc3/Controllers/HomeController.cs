@@ -10,7 +10,7 @@ namespace Dev11_Net45_Mvc3.Controllers
     {
         public ActionResult Index()
         {
-            ViewBag.Message = "Welcome to ASP.NET MVC!";
+            ViewBag.Message = "Dev11 Mvc3 application targetting Fx4.5";
 
             return View();
         }
